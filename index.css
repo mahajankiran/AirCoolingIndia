@@ -157,7 +157,7 @@ body {
     }
 }
 
-@media only screen and (max-width:340px) {
+@media only screen and (max-width:360px) {
 
 
     #header h1 {
@@ -170,6 +170,9 @@ body {
 
     #header {
         margin-top: 50px;
+    }
+    .projects-container{
+        padding:10px !important;
     }
 }
 
@@ -214,7 +217,7 @@ body {
     max-width: 1100px;
     overflow: auto;
     margin: auto;
-    /* padding: 2rem; */
+    padding: 2rem;
 }
 
 .projectcard {
@@ -264,7 +267,7 @@ body {
 .card-text {
     color: #6DD5FA !important;
     position: relative;
-    font-size:20px;
+    font-size:15px;
 }
 
 
@@ -279,6 +282,7 @@ body {
     .projects-container {
         max-width: 970px;
         margin: 0;
+       
     }
 
 
