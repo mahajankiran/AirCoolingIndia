@@ -9,7 +9,9 @@ body {
     overflow-x: hidden;
     scroll-behavior: smooth;
 }
-
+html{
+    scroll-behavior: smooth;
+}
 .navbar {
 
     background: transparent !important;
@@ -21,8 +23,8 @@ body {
 .navbar-brand {
     font-size: 3rem;
     color: #eaafc8 !important;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25), 0 2px 10px rgba(0, 0, 0, 0.22);
-   border-radius:100%;
+ 
+  
     
 
 }
