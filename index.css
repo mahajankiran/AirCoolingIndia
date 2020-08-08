@@ -41,6 +41,7 @@ html {
     margin-right: 20px !important;
     display: inline-block;
     transition: .3s;
+    padding: 8px 8px !important;
 
 
 }
@@ -99,7 +100,7 @@ html {
     height: 50px;
     border: none;
     transition: .3s all ease;
-    cursor:pointer;
+    cursor: pointer;
 }
 
 .btn-git:hover {
@@ -299,6 +300,8 @@ html {
         margin: 0;
 
     }
+
+
 
 
 
