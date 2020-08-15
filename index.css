@@ -103,6 +103,9 @@ html {
     border-radius: 10px;
     /* pointer-events: auto; */
 }
+.services-btn:focus{
+    outline:none;
+}
 
 
 
