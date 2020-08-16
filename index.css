@@ -22,14 +22,14 @@ html {
 
 
 
-.navbar-brand {
-    font-size: 3rem;
+/* .navbar-brand {
+    
     color: #eaafc8 !important;
 
 
 
 
-}
+} */
 
 
 
@@ -358,7 +358,7 @@ html {
     align-content: center;
     justify-items: center;
     align-items: center;
-    height:50vh;
+    height:70vh;
     width:100%;
     margin-bottom:90px;
 }
@@ -536,7 +536,7 @@ center p {
         grid-template-columns:1fr;
        align-items: center;
        justify-items: center;
-       height:120vh;
+       height:240vh;
     }
 
     .copyright p {
